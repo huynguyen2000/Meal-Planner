@@ -1,6 +1,7 @@
 # Meal-Planner
 
-<https://www.google.com>
+<http://chefprep.pythonanywhere.com/>
+
 Made with the Django Framework
 
 Used Spoonacular for food information
